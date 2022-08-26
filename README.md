@@ -1,1 +1,1 @@
-My first readme
+wisdom is wise
